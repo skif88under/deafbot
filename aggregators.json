@@ -1,0 +1,35 @@
+{
+  "yandex_eda": {
+    "name": "Яндекс Еда",
+    "description": "",
+    "referral_link": "",
+    "vacancies": ["courier"],
+    "movement": ["walk", "bike", "electric", "scooter", "car"],
+    "formats": ["district", "city"],
+    "payouts": ["instant", "next_day", "weekly"],
+    "third_party_card": true,
+    "self_employed_required": true
+  },
+  "yandex_lavka": {
+    "name": "Яндекс Лавка",
+    "description": "",
+    "referral_link": "",
+    "vacancies": ["courier"],
+    "movement": ["walk", "bike", "electric", "scooter", "car"],
+    "formats": ["point"],
+    "payouts": ["next_day", "weekly"],
+    "third_party_card": true,
+    "self_employed_required": true
+  },
+  "kuper": {
+    "name": "Купер",
+    "description": "",
+    "referral_link": "",
+    "vacancies": ["courier", "picker"],
+    "movement": ["walk", "bike", "electric", "scooter", "car"],
+    "formats": ["point", "district", "city"],
+    "payouts": ["next_day", "weekly"],
+    "third_party_card": true,
+    "self_employed_required": true
+  }
+}
